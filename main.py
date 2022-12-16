@@ -38,7 +38,7 @@ lang_list=list(language.keys())
 
 
 
-bot = telebot.TeleBot("5672449214:AAFsLKNTRBgDShGmpFMSbsxgk0mmsB905VM",
+bot = telebot.TeleBot("56700000000000000000000000000000000000",
 state_storage=state_storage)
 
 
